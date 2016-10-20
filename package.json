@@ -1,0 +1,14 @@
+{
+  "name": "mznode-command-start",
+  "version": "1.0.0",
+  "description": "mznode start command.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "console-log-colors": "0.0.2"
+  }
+}
