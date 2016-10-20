@@ -14,7 +14,13 @@ npm i -g mznode-command-start
 
 遵循 `mz-node-cli` 目录规范。
 
-- `mznode start server` start nginx and node-server.
-- `mznode start nginx` start nginx.
-- `mznode start node` start node-server.
-- `mznode start build` start build.
+```bash
+Usage: mznode start <options>
+
+Options:
+
+  --server     start nginx and node-server.
+  --nginx      start nginx.
+  --node       start node-server.
+  --build      start build.
+```
