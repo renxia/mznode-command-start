@@ -1,2 +1,2 @@
-cnpm publish --registry=http://172.16.16.135:7001
+npm publish --registry=https://registry.npmjs.org
 pause

@@ -3,10 +3,26 @@
   "version": "1.0.0",
   "description": "mznode start command.",
   "main": "index.js",
+  "keywords": [
+    "fis",
+    "fis3",
+    "mznode",
+    "mznode-command-start"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": {
+    "name": "lzwme",
+    "url": "https://lzw.me"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/renxia/mznode-command-start.git"
+  },
+  "bugs": {
+    "url": "https://github.com/renxia/mznode-command-start/issues"
+  },
   "license": "ISC",
   "dependencies": {
     "console-log-colors": "0.0.2"
