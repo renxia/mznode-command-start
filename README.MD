@@ -1,6 +1,6 @@
 # mznode-command-start
 
-`mz-node-cli` 启动 server 命令。
+[mz-node-cli](https://github.com/renxia/mz-node-cli) 启动 server 命令。
 
 ## 安装
 
