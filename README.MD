@@ -8,6 +8,7 @@
 [mz-node-cli](https://github.com/renxia/mz-node-cli) 启动 server 命令。
 
 ## 安装
+[![mznode-command-start](https://nodei.co/npm/mznode-command-start.png)](https://npmjs.org/package/mznode-command-start)
 
 ```bash
 npm i -g mznode-command-start
