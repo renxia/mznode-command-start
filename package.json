@@ -1,6 +1,6 @@
 {
   "name": "mznode-command-start",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "mznode start command.",
   "main": "index.js",
   "keywords": [
